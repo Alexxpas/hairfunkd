@@ -42,7 +42,7 @@ body {
   margin: 0px;
   padding: 0px;
   font-family: 'Apercu Light';
-  background-color: rgb(15, 9, 6);
+  background-color: #0f0906;
   font-size: 20px;
   color: #feffcd;
 }
@@ -137,10 +137,10 @@ textarea {
   margin: auto;
   text-align: center;
   align-items: center;
-  background-color: #973618;
+  background-color: #a3653c;
   opacity: 0.9;
   cursor: pointer;
-  border: 4px #973618 solid;
+  border: 4px #a3653c solid;
   border-radius: 30px;
   display: inline-flex;
   justify-content: center;
@@ -200,7 +200,7 @@ h5 {
   .gray-bg{
     background-color: #E3E3E3;
   }
-  .#973618-bg{
+  .#a3653c-bg{
     background-color: #fff;
   } */
 .col {
@@ -215,12 +215,12 @@ h5 {
 
 
   * {
-    background-color: rgb(221, 206, 176);
+    background-color: #ddceb0;
     margin: 0px;
   }
 
   body {
-    background-color: #973618;
+    background-color: #ddceb0;
   }
 
   p {
