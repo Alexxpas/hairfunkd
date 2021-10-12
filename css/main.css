@@ -205,7 +205,7 @@ section.services .text-wrap p:nth-of-type(1) {
 
 section.services .text-wrap p:nth-of-type(2) {
     width: 700px;
-    color: rgb(70, 70, 71);
+    color: #464647;
     position: absolute;
     top: 3px;
     left: 10%;
@@ -222,19 +222,17 @@ section.services .text-wrap p:nth-of-type(3) {
 }
 
 section.services .text-wrap p:nth-of-type(4) {
-    color: rgb(70, 70, 71);
+    color: #464647;
     width: 700px;
     position: absolute;
     right: 10%;
     top: 104px;
     text-align: left;
-
 }
-
 
 footer {
     height: 300px;
-    background-color: rgb(15, 9, 6);
+    background-color: #0f0906;
     color: #a3653c;
     font-size: 30px;
     padding: 0 0 30px 0;
@@ -314,7 +312,7 @@ footer .graphic {
 
     .hamburger-menu {
         color: black;
-        height: 80vh;
+        height: 70vh;
         width: 100%;
         font-size: 50px;
         background-color: #a3653c;
@@ -414,6 +412,12 @@ footer .graphic {
         margin: 6vh auto 6vh auto;
     }
 
+    .img-instagram {
+        max-height: 90px;
+        margin: 0 auto 6vh auto;
+        background-color: #ddceb0;
+    }
+
     .phone {
         color: #000000;
         font-size: 50px;
@@ -457,7 +461,7 @@ footer .graphic {
     .img-sci-comb {
         max-height: 75px;
         margin: auto;
-        margin-top: 2rem;
+        margin: 2rem;
     }
 
     .bottom-page {
@@ -474,6 +478,6 @@ footer .graphic {
 
 .placeholder-img {
     margin: auto;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     width: 400px;
 }
